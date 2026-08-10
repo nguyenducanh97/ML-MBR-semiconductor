@@ -1,0 +1,30 @@
+|--- srt <= 84.48
+|   |--- hrt <= 6.20
+|   |   |--- class: True
+|   |--- hrt >  6.20
+|   |   |--- glu <= 0.77
+|   |   |   |--- fm <= 0.02
+|   |   |   |   |--- class: False
+|   |   |   |--- fm >  0.02
+|   |   |   |   |--- class: True
+|   |   |--- glu >  0.77
+|   |   |   |--- fm <= 0.02
+|   |   |   |   |--- class: True
+|   |   |   |--- fm >  0.02
+|   |   |   |   |--- class: True
+|--- srt >  84.48
+|   |--- hrt <= 6.72
+|   |   |--- glu <= 0.60
+|   |   |   |--- class: False
+|   |   |--- glu >  0.60
+|   |   |   |--- class: True
+|   |--- hrt >  6.72
+|   |   |--- srt <= 86.69
+|   |   |   |--- mlss <= 3522.56
+|   |   |   |   |--- class: False
+|   |   |   |--- mlss >  3522.56
+|   |   |   |   |--- class: False
+|   |   |--- srt >  86.69
+|   |   |   |--- class: False
+
+held-out contingency [[195, 87], [346, 750]] OR=4.858 p=4.256e-30

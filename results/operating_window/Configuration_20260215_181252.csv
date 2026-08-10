@@ -1,0 +1,8 @@
+Parameter,Value
+Target Ranges,"{'tmp': {'min': -0.09, 'max': -0.03}, 'flow': {'min': 1.5, 'max': 2.2}, 'lv': {'min': 65.0, 'max': 67.0}}"
+Selected Models,"{'tmp': 'Extra Trees', 'flow': 'Extra Trees', 'lv': 'Extra Trees'}"
+Feasible Points Found,107848
+Bounds Method,Observed Data Range (no extrapolation)
+Sensitivity Methods,Pearson + SHAP + ALE
+System Type,UF Membrane
+Timestamp,20260215_181252

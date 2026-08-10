@@ -1,0 +1,22 @@
+period,window,n_in_window,pct_met_INSIDE,n_outside,pct_met_OUTSIDE,baseline_pct,lift_pp
+full_record,SRT only (50-70 d),131,94.7,4462,35.4,37.1,59.3
+full_record,HRT only (6.0-7.0 h),1030,53.9,3563,32.2,37.1,21.7
+full_record,F/M only (0.020-0.040 /d),3706,39.4,887,27.5,37.1,11.9
+full_record,SRT + HRT,42,97.6,4551,36.5,37.1,61.1
+full_record,SRT + HRT + F/M,42,97.6,4551,36.5,37.1,61.1
+full_record,SRT + HRT + F/M + Air,42,97.6,4551,36.5,37.1,61.1
+full_record,All 7 recommended ranges,0,,4593,37.1,37.1,
+train_period_first70pct,SRT only (50-70 d),131,94.7,3084,33.7,36.1,61.0
+train_period_first70pct,HRT only (6.0-7.0 h),1030,53.9,2185,27.8,36.1,26.1
+train_period_first70pct,F/M only (0.020-0.040 /d),2421,38.5,794,29.0,36.1,9.5
+train_period_first70pct,SRT + HRT,42,97.6,3173,35.3,36.1,62.3
+train_period_first70pct,SRT + HRT + F/M,42,97.6,3173,35.3,36.1,62.3
+train_period_first70pct,SRT + HRT + F/M + Air,42,97.6,3173,35.3,36.1,62.3
+train_period_first70pct,All 7 recommended ranges,0,,3215,36.1,36.1,
+HELD_OUT_final30pct,SRT only (50-70 d),0,,1378,39.3,39.3,
+HELD_OUT_final30pct,HRT only (6.0-7.0 h),0,,1378,39.3,39.3,
+HELD_OUT_final30pct,F/M only (0.020-0.040 /d),1285,41.0,93,15.1,39.3,26.0
+HELD_OUT_final30pct,SRT + HRT,0,,1378,39.3,39.3,
+HELD_OUT_final30pct,SRT + HRT + F/M,0,,1378,39.3,39.3,
+HELD_OUT_final30pct,SRT + HRT + F/M + Air,0,,1378,39.3,39.3,
+HELD_OUT_final30pct,All 7 recommended ranges,0,,1378,39.3,39.3,

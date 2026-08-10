@@ -1,0 +1,10 @@
+target,scheme,spearman_vs_random,same_top_feature
+tmp,blocked_24h,0.75,True
+tmp,blocked_168h,0.464,True
+tmp,chronological,0.321,True
+flow,blocked_24h,0.964,True
+flow,blocked_168h,-0.107,False
+flow,chronological,0.214,False
+lv,blocked_24h,0.893,True
+lv,blocked_168h,0.929,True
+lv,chronological,0.179,True

@@ -1,0 +1,5 @@
+metric,value
+real_NN_p99,0.539313457685816
+lhs_pct_on_manifold,0.015
+lhs_median_NN,3.125949090323709
+real_median_NN,0.11896051588191531

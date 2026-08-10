@@ -1,0 +1,12 @@
+{
+  "rounding": {
+    "glu": 0.001,
+    "mlss": 1,
+    "air": 1,
+    "fm": 0.0001,
+    "cn": 0.01,
+    "hrt": 0.001,
+    "srt": 0.1
+  },
+  "note": "bands rounded outward to the printed precision; all statistics recomputed from the rounded bounds so published numbers are reproducible"
+}

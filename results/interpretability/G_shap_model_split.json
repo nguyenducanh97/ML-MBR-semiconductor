@@ -1,0 +1,24 @@
+{
+  "tree": [
+    "Decision Tree",
+    "Random Forest",
+    "Extra Trees",
+    "Bagging",
+    "AdaBoost",
+    "Gradient Boosting",
+    "Hist Gradient Boosting",
+    "XGBoost",
+    "LightGBM"
+  ],
+  "nontree": [
+    "Linear Regression",
+    "Ridge Regression",
+    "Lasso Regression",
+    "ElasticNet",
+    "KNN",
+    "SVR",
+    "MLP Neural Network"
+  ],
+  "n_tree": 9,
+  "n_nontree": 7
+}

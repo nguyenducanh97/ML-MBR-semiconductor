@@ -1,0 +1,2 @@
+depth,leaf,n_flag_tr,prec_train,n_flag_te,prec_heldout,baseline_heldout,lift_pp
+4,200,1223,85.0,282,69.1,39.3,29.9

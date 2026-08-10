@@ -1,0 +1,5 @@
+{
+  "rule": "widest contiguous decile band within 5.0 pp of the maximum attainment, minimum support 250 logged hours",
+  "tol_pp": 5.0,
+  "min_support_h": 250
+}
