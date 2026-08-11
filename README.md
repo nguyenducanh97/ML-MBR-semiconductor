@@ -3,7 +3,7 @@ Yujae Jeon1, Duc Anh Nguyen2, Kim Anh Nguyen Thi2, Quoc Thai Nong2, Am Jang2*
 
 1Department of Semiconductor Display Engineering, Sungkyunkwan University (SKKU), (16419) 2066, Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do, Republic of Korea. 
 2Department of Global Smart City, Sungkyunkwan University (SKKU), (16419) 2066, Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do, Republic of Korea.
-
+DOI: 
 *Corresponding author: Tel.: +82-31-290-7526; Fax: +82-31-290-7549; Email: amjang@skku.edu
 
 Authors' emails: Yujae Jeon (junyujae@naver.com), Duc Anh Nguyen (nguyenducanh@g.skku.edu), Kim Anh Nguyen Thi (toikimanh@gmail.com), Quoc Thai Nong (thainq@g.skku.edu).
@@ -76,3 +76,7 @@ pip install -r requirements.txt
 ## Licence
 
 MIT, see `LICENSE`. Please cite the paper if you use this material.
+
+## Best regards
+
+Thank you very much for your time reading our paper.
