@@ -18,16 +18,13 @@ operating manifold.
 ## Data availability
 
 The plant's raw SCADA record is owned by the operating company and cannot be
-redistributed. Nothing in this repository contains it. What is provided instead:
+redistributed.
 
-- `results/`: every derived quantity behind the figures and tables: model
-  performance under each validation design, SHAP importance, conditional
-  feasibility rates, the sampled operating manifold and the operating-window
-  statistics. These are aggregates or model-generated states, not plant records.
+`results/`: every derived quantity behind the figures and tables: model
+performance under each validation design, SHAP importance, conditional
+feasibility rates, the sampled operating manifold and the operating-window
+statistics. These are aggregates or model-generated states, not plant records.
 
-To reproduce the published numbers, place the real record at `data/UF_data.csv`
-with columns `glu, mlss, air, fm, cn, hrt, srt, tmp, flow, lv` in chronological
-order and run the scripts in numerical order.
 
 ## Layout
 
